@@ -1,3 +1,11 @@
 User-Agent: *
-Disallow: /
+Allow: /
 
+User-Agent: Googlebot
+User-Agent: Yeti
+User-Agent: OAI-SearchBot
+User-Agent: ChatGPT-User
+Allow: /
+
+Host: https://zzzarit-bulldozer.github.io/cafe-woodvine-preview
+Sitemap: https://zzzarit-bulldozer.github.io/cafe-woodvine-preview/sitemap.xml
