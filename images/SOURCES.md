@@ -37,6 +37,17 @@ site photography:
 - `menu-mini-pound-cake.jpg`
 - `menu-einspanner.jpg`
 
+The following cookie and brownie images were re-edited on 2026-08-01 from the
+owner-approved menu originals. Their product shapes, toppings, and ingredients
+were retained while clear packaging was removed and each item was placed on the
+same warm ceramic-plate setting used by `menu-mini-pound-cake.jpg`:
+
+- `menu-peanut-butter-cookie.jpg`
+- `menu-yellow-cheese-smore-cookie.jpg`
+- `menu-chocolate-smore-cookie.jpg`
+- `menu-oreo-smore-cookie.jpg`
+- `menu-chocolate-chip-brownie.jpg`
+
 The following reservation-card images were added on 2026-08-01 from the
 current official Naver Booking product photos. They are AI-assisted
 photographic variations that preserve each product's recognizable cake,
