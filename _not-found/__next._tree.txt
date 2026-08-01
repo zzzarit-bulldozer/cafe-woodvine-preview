@@ -1,3 +1,3 @@
 :HL["/cafe-woodvine-preview/_next/static/chunks/1x2c7095sw86r.css","style"]
-:HL["/cafe-woodvine-preview/_next/static/chunks/434j4s6-j-jzk.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"oXPwL3sAxjNJmm7XD-Gkz"}
+:HL["/cafe-woodvine-preview/_next/static/chunks/02-mcgwo1kjz0.css","style"]
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"/_not-found","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"YDY6jlzvcHG_YlEiwBbhH"}
