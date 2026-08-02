@@ -26,7 +26,6 @@ site photography:
 - `menu-basque-cheesecake.jpg`
 - `menu-fresh-fruit-bottle-cake.jpg`
 - `menu-berry-latte.jpg`
-- `menu-brick-cake.jpg`
 - `menu-watermelon-juice.jpg`
 - `menu-grapefruit-ade.jpg`
 - `menu-choco-oreo-box.jpg`
