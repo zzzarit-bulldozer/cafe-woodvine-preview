@@ -2,4 +2,4 @@
 :HL["/cafe-woodvine-preview/_next/static/chunks/1867a2_zhk466.css","style"]
 :HL["/cafe-woodvine-preview/_next/static/chunks/307x_52vs9ofr.css","style"]
 :HC["/",""]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"school-kids-event-dessert","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"CDZwVDkpsWbbhf3k4vTdF"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"school-kids-event-dessert","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"CIkTyEgjC20xMEHj9ZJzu"}
