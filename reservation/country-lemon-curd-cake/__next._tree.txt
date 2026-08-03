@@ -1,4 +1,5 @@
 :HL["/cafe-woodvine-preview/_next/static/chunks/1x2c7095sw86r.css","style"]
-:HL["/cafe-woodvine-preview/_next/static/chunks/3-v6rar-l8hs7.css","style"]
+:HL["/cafe-woodvine-preview/_next/static/chunks/1867a2_zhk466.css","style"]
+:HL["/cafe-woodvine-preview/_next/static/chunks/1ijsgeov92ow9.css","style"]
 :HC["/",""]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"reservation","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"country-lemon-curd-cake","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"yP83VaOCmdDDmiGZ1QGEY"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"reservation","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"country-lemon-curd-cake","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"jR2l2Du6AVKZ_FLe6JPu_"}

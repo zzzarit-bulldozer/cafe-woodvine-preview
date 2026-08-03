@@ -10,6 +10,8 @@ provided and approved by the project owner.
 the official Instagram account. The remaining café and product images are
 from the linked Naver Place page.
 
+`bulk-cakes.webp` is a locally optimized derivative of `bulk-cakes.jpg`.
+
 The `menu-*.jpg` files and other website JPEG files may be AI-assisted
 photographic variations derived from owner-approved originals. The original
 menu items, packaging, and café interior identity were retained while framing,
