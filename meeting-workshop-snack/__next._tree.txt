@@ -1,5 +1,5 @@
 :HL["/cafe-woodvine-preview/_next/static/chunks/1x2c7095sw86r.css","style"]
 :HL["/cafe-woodvine-preview/_next/static/chunks/1867a2_zhk466.css","style"]
-:HL["/cafe-woodvine-preview/_next/static/chunks/307x_52vs9ofr.css","style"]
+:HL["/cafe-woodvine-preview/_next/static/chunks/3zjei8h4xk5vk.css","style"]
 :HC["/",""]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"meeting-workshop-snack","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"CIkTyEgjC20xMEHj9ZJzu"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"meeting-workshop-snack","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"WNX8miVR1k2yG4ZYCjts4"}
