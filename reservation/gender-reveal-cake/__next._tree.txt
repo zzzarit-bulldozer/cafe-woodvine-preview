@@ -2,4 +2,4 @@
 :HL["/cafe-woodvine-preview/_next/static/chunks/1867a2_zhk466.css","style"]
 :HL["/cafe-woodvine-preview/_next/static/chunks/3zjei8h4xk5vk.css","style"]
 :HC["/",""]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"reservation","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"gender-reveal-cake","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"WNX8miVR1k2yG4ZYCjts4"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"reservation","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"gender-reveal-cake","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"9Ippr4CGoCjqWlCoqdImr"}
