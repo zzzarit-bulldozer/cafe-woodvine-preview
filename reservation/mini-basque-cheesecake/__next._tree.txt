@@ -1,5 +1,5 @@
 :HL["/cafe-woodvine-preview/_next/static/chunks/1x2c7095sw86r.css","style"]
 :HL["/cafe-woodvine-preview/_next/static/chunks/1867a2_zhk466.css","style"]
-:HL["/cafe-woodvine-preview/_next/static/chunks/1gj7tfmeb7e66.css","style"]
+:HL["/cafe-woodvine-preview/_next/static/chunks/398f8mjru3vmi.css","style"]
 :HC["/",""]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"reservation","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"mini-basque-cheesecake","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"Cvd2jFKq6E_eOLginAsJW"}
+0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"reservation","param":null,"prefetchHints":0,"slots":{"children":{"name":"slug","param":{"type":"d","key":"mini-basque-cheesecake","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"g2kdxJHEmYsO-voCyHOpz"}
